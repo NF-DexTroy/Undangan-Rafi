@@ -1,0 +1,6 @@
+Ada beberapa bug dan kekurangan didalam website ini karena pengerjaan yang buru-buru 
+untuk bug nya ada 
+bug tak bisa di scroll sesaat setelah refresh halaman cara mengatasi nya sekarang ada dengan membuka ulang dari live server atau dengan menggunakan extension dari google yang Bernama mobile simulator
+
+kekurangan terdapat dari animasi yang sangat dikit 
+dan beberapa design yang terasa tidak aestetik untuk dilihat
